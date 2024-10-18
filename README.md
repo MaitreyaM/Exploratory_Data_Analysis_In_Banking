@@ -1,2 +1,2 @@
 # Exploratory_Data_Analysis_In_Banking
-This repository contains a comprehensive exploratory data analysis (EDA) focused on the banking sector. 
+This repository contains a comprehensive exploratory data analysis (EDA) focused on the banking sector. The notebook investigates key patterns, trends, and insights within banking data, applying various data analysis techniques and visualization tools. Key techniques include data cleaning, feature selection, statistical analysis, and visual representation of financial data using Python libraries like Pandas, Matplotlib, and Seaborn. This project provides valuable insights for decision-making in banking-related data-driven tasks.
